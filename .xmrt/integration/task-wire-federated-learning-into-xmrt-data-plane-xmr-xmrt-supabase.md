@@ -1,7 +1,7 @@
 # XMRT Integration Stub
 Task: [xmrt-supabase] Enable integration hook
-Selected: 2025-10-03T01:51:26Z
-Issue: https://github.com/DevGruGold/XMRT-Ecosystem/issues/821
+Selected: 2025-10-03T02:13:43Z
+Issue: https://github.com/DevGruGold/XMRT-Ecosystem/issues/828
 
 ## Purpose
 Provide a non-invasive integration stub for xmrt-supabase so the implementation can
